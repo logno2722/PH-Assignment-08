@@ -1,0 +1,218 @@
+[
+  {
+    "image": "/src/assets/demo-app (2).webp",
+    "title": "Forest: Focus For Productivity",
+    "companyName": "Creative Canvas Studios",
+    "id": 101,
+    "description": "PixelArt Maker Pro is the definitive mobile studio for retro graphics enthusiasts. It offers a sophisticated, layer-based editing system, a vast, customizable color palette, and tools optimized for precise 8-bit and 16-bit sprite creation. Users can create static images or frame-by-frame animations, export them in multiple formats (PNG, GIF, Aseprite) and share them directly with a dedicated artist community. The intuitive interface is perfect for both seasoned pixel artists and beginners taking their first steps.",
+    "size": 45,
+    "reviews": 12500,
+    "ratingAvg": 4.7,
+    "downloads": 50,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1250 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 7000 }
+    ]
+  },
+  {
+    "image": "/src/assets/demo-app (6).webp",
+    "title": "SmPlan:ToDo List With Reminder",
+    "companyName": "Tranquility Apps Inc.",
+    "id": 102,
+    "description": "Escape the daily rush with Zen Garden Planner. This unique app provides a meditative and creative outlet, allowing you to design and rake your own virtual Japanese dry landscape garden (Karesansui). Choose from various elements like rocks, moss, gravel and traditional lanterns. The physics-based raking tool offers realistic, calming patterns and a time-lapse feature lets you watch your garden change with the virtual sun and seasonal shifts. It's a perfect blend of artistic design and relaxation therapy.",
+    "size": 120,
+    "reviews": 3400,
+    "ratingAvg": 4.2,
+    "downloads": 75,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 1100 },
+      { "name": "5 star", "count": 1500 }
+    ]
+  },
+  {
+    "image": "/src/assets/demo-app (5).webp",
+    "title": "FLIP - Focus Timer For Study",
+    "companyName": "DevTools Solutions",
+    "id": 103,
+    "description": "CodeMentor IDE is a powerful, yet mobile-friendly development environment designed for programmers on the go. It supports syntax highlighting and code completion for over 20 languages (including Python, JavaScript, Java, and Swift). Features include seamless cloud sync with popular repositories (GitHub/GitLab), a live debugging console and a unique 'Pair Programming' mode that allows two users to collaborate on the same file in real-time. Turn your tablet or phone into a professional coding workstation.",
+    "size": 88,
+    "reviews": 21000,
+    "ratingAvg": 4.9,
+    "downloads": 95,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 5300 },
+      { "name": "5 star", "count": 15000 }
+    ]
+  },
+  {
+    "image": "/src/assets/demo-app (1).webp",
+    "title": "Pomocat - Cute Pomodoro Timer",
+    "companyName": "Starlight Explorers",
+    "id": 104,
+    "description": "Transform your device into a window to the cosmos with Astro Atlas. Point your phone at the night sky to identify stars, constellations, planets, and deep-sky objects in augmented reality. The app includes detailed information cards on thousands of celestial bodies, real-time tracking of satellites and the International Space Station (ISS), and personalized alerts for meteor showers and eclipses visible from your current location. It's an essential guide for every stargazer, novice or experienced.",
+    "size": 250,
+    "reviews": 850,
+    "ratingAvg": 3.8,
+    "downloads": 25,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 150 }
+    ]
+  },
+  {
+    "image": "/src/assets/clock.png",
+    "title": "Time Planner: Schedule & Tasks",
+    "companyName": "Kitchen Coders",
+    "id": 105,
+    "description": "Recipe Remix is the smart culinary assistant that solves the 'What should I cook?' dilemma. Simply input the leftover ingredients you have on hand, and the app's powerful algorithm generates unique, creative recipe suggestions. It filters recipes based on dietary restrictions (vegan, keto, gluten-free) and provides step-by-step instructions, nutritional facts and integrated grocery list functionality. Reduce food waste and discover your next favorite meal.",
+    "size": 32,
+    "reviews": 45000,
+    "ratingAvg": 4.6,
+    "downloads": 20,
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 4000 },
+      { "name": "4 star", "count": 12600 },
+      { "name": "5 star", "count": 26000 }
+    ]
+  },
+  {
+    "image": "/src/assets/demo-app (4).webp",
+    "title": "Morning Habits - Daily Routine",
+    "companyName": "Wellness Foundry",
+    "id": 106,
+    "description": "Mindful Tracker is a holistic habit and mental health journaling app. It allows users to quickly log their daily mood, track custom habits (like water intake or meditation minutes), and reflect on their day with guided prompts. Advanced features include customizable charts to identify mood triggers and trend lines, anonymous community support forums, and integration with health apps to correlate physical activity with emotional well-being. Start building a better, more self-aware you.",
+    "size": 65,
+    "reviews": 7500,
+    "ratingAvg": 4.4,
+    "downloads": 40,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 350 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 3500 }
+    ]
+  },
+  {
+    "image": "/src/assets/ff.png",
+    "title": "Focus Plant: Pomodoro Forest",
+    "companyName": "Financial Frontier",
+    "id": 107,
+    "description": "Stay ahead of the volatile cryptocurrency market with CryptoWatch Live. This app provides streaming, real-time price data, advanced charting tools with technical indicators (MACD, RSI), and multi-exchange portfolio integration. Users receive instant, personalized alerts for significant price movements and access to a curated news feed to filter out market noise. It's a robust, secure platform for managing digital assets and tracking market performance on the go.",
+    "size": 55,
+    "reviews": 150000,
+    "ratingAvg": 4.1,
+    "downloads": 10,
+    "ratings": [
+      { "name": "1 star", "count": 15000 },
+      { "name": "2 star", "count": 20000 },
+      { "name": "3 star", "count": 30000 },
+      { "name": "4 star", "count": 40000 },
+      { "name": "5 star", "count": 45000 }
+    ]
+  },
+  {
+    "image": "/src/assets/alarm.jpeg",
+    "title": "Alarmy - Alarm Clock & Sleep",
+    "companyName": "Global Connect Edu",
+    "id": 108,
+    "description": "Language Leap makes achieving fluency fun and accessible. Instead of rote memorization, this app uses immersive, interactive 'StoryPaths' where users must apply vocabulary and grammar to progress through a narrative. It offers courses in Spanish, French, Mandarin, and German, featuring AI-powered pronunciation feedback, cultural notes from native speakers, and a competitive leaderboard to motivate daily practice. Perfect for travelers and serious students alike.",
+    "size": 180,
+    "reviews": 9800,
+    "ratingAvg": 4.8,
+    "downloads": 6,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 6000 }
+    ]
+  },
+  {
+    "image": "/src/assets/voxel.jpeg",
+    "title": "Voxel Racer 3D",
+    "companyName": "Turbo Games LTD",
+    "id": 109,
+    "description": "Voxel Racer 3D brings classic arcade racing to life with stunning, destructible voxel graphics. Customize your blocky vehicle with hundreds of parts and take on challenging tracks across deserts, mountains, and neon-lit cities. The game features a robust multiplayer mode, daily time trials, and a unique track editor that lets you build and share your own crazy courses with the global community. Experience explosive crashes and retro-inspired speed.",
+    "size": 350,
+    "reviews": 62000,
+    "ratingAvg": 4.3,
+    "downloads": 35,
+    "ratings": [
+      { "name": "1 star", "count": 4000 },
+      { "name": "2 star", "count": 6000 },
+      { "name": "3 star", "count": 10000 },
+      { "name": "4 star", "count": 18000 },
+      { "name": "5 star", "count": 24000 }
+    ]
+  },
+  {
+    "image": "/src/assets/smp editor.cd17cf1f-a2a2-4584-873c-c572c675b34e",
+    "title": "Smart Photo Editor",
+    "companyName": "Visual Dynamics",
+    "id": 110,
+    "description": "Elevate your photography with Smart Photo Editor, a comprehensive tool leveraging AI for effortless enhancements. Key features include one-tap automatic color correction, sky replacement, object removal, and professional-grade layer editing. It also offers a library of over 100 film-inspired filters and advanced tools like curves, selective color adjustment, and RAW file support. Whether you need a quick fix or deep retouching, this editor delivers studio-quality results on your phone.",
+    "size": 95,
+    "reviews": 78000,
+    "ratingAvg": 4.5,
+    "downloads": 48,
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 3500 },
+      { "name": "3 star", "count": 9000 },
+      { "name": "4 star", "count": 24000 },
+      { "name": "5 star", "count": 40000 }
+    ]
+  },
+  {
+    "image": "/src/assets/budget buddy.jpg",
+    "title": "Budget Buddy",
+    "companyName": "Money Flow Software",
+    "id": 111,
+    "description": "Take control of your finances with Budget Buddy, a straightforward and powerful expense tracker. Easily categorize transactions using custom tags, set spending limits for different areas (groceries, entertainment, bills), and visualize your cash flow with clear, interactive charts. It supports multiple currencies and secure bank synchronization (optional), providing a complete overview of your financial health without unnecessary complexity. Achieving your savings goals has never been simpler.",
+    "size": 28,
+    "reviews": 51000,
+    "ratingAvg": 4.6,
+    "downloads": 32,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 5000 },
+      { "name": "4 star", "count": 15000 },
+      { "name": "5 star", "count": 28000 }
+    ]
+  },
+  {
+    "image": "/src/assets/sound.jpeg",
+    "title": "Sound Wave Creator",
+    "companyName": "Audio Innovation Labs",
+    "id": 112,
+    "description": "Craft your perfect sonic environment with Sound Wave Creator. This app offers a sophisticated mixer to combine dozens of high-quality ambient sounds, including nature noises (rain, forest, beach), white noise variants, and subtle musical tones. Create and save custom presets for meditation, deep work, or falling asleep. Features include a gentle fade-out timer, binaural beats for focused concentration, and offline playback, ensuring peace and productivity anytime, anywhere.",
+    "size": 70,
+    "reviews": 1800,
+    "ratingAvg": 4.0,
+    "downloads": 15,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 600 }
+    ]
+  }
+]

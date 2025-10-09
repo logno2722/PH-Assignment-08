@@ -1,6 +1,7 @@
 import React from 'react';
 import Logo from '../../../src/assets/logo.png';
 import { FaGithub } from "react-icons/fa";
+import { Link } from 'react-router';
 
 const Navbar = () => {
     return (
@@ -20,14 +21,15 @@ const Navbar = () => {
                         </ul>
                     </div>
                     <div className='flex justify-center item-center  py-[19px]  '>
-                        <a className="btn btn-ghost text-base font-bold bg-linear-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent px-0"><img className='lg:h-10 lg:w-10 h-6' src={Logo} alt="" />HERO.IO</a>
+                        <a className="btn btn-ghost text-[20px] font-bold bg-linear-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent px-0"><img className='lg:h-10 lg:w-10 h-6' src={Logo} alt="" />HERO.IO</a>
                     </div>
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="flex justify-center item-center gap-[32px] font-medium text-base">
-                        <li><a>Home</a></li>
-                        <li><a>Apps</a></li>
+                        <Link to='/'><li><a>Home</a></li></Link>
+                        <Link to='/apps'><li><a>Apps</a></li></Link>
                         <li><a>Installation</a></li>
+                        
                     </ul>
                 </div>
                 <div className="navbar-end py-[17px]">
