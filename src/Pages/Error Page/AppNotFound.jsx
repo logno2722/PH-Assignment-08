@@ -1,4 +1,3 @@
-import React from 'react';
 import { useNavigate } from 'react-router';
 import ErrorImage from '../../assets/App-Error.png'; 
 

@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { useLoaderData } from 'react-router';
 import { CiSearch } from "react-icons/ci";
 import PerApp from '../../Components/App/PerApp';
