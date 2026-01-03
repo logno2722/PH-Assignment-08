@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
-import StarIcon from "../../assets/icon-ratings.png"
-import DownloadIcon from '../../assets/icon-downloads.png'
+import StarIcon from "/assets/icon-ratings.png"
+import DownloadIcon from '/assets/icon-downloads.png'
 
 const InstalledApps = () => {
     const [installedApps, setInstalledApps] = useState([]);

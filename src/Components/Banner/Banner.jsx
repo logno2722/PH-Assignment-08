@@ -1,7 +1,7 @@
 import React from 'react';
-import BannerImg from "../../assets/hero.png";
-import PlayStoreIcon from "../../assets/playstore.png";
-import AppStoreIcon from "../../assets/app-store.png";
+import BannerImg from "/assets/hero.png";
+import PlayStoreIcon from "/assets/playstore.png";
+import AppStoreIcon from "/assets/app-store.png";
 
 const Banner = () => {
     return (

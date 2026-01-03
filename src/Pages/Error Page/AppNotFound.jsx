@@ -1,5 +1,5 @@
 import { useNavigate } from 'react-router';
-import ErrorImage from '../../assets/App-Error.png'; 
+import ErrorImage from '/assets/App-Error.png'; 
 
 const AppNotFound = () => {
     const navigate = useNavigate();

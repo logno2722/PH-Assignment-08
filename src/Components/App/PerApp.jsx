@@ -1,6 +1,6 @@
 import React from 'react';
-import DownloadIcon from '../../assets/icon-downloads.png';
-import StarIcon from "../../assets/icon-ratings.png";
+import DownloadIcon from '/assets/icon-downloads.png';
+import StarIcon from "/assets/icon-ratings.png";
 import { Link } from 'react-router';
 
 const PerApp = ({ singleApp }) => {

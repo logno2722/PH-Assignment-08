@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import { useLoaderData, useParams } from 'react-router';
-import DownloadIcon from '../../assets/icon-downloads.png';
-import StarIcon from '../../assets/icon-ratings.png';
-import RevIcon from '../../assets/icon-review.png';
+import DownloadIcon from '/assets/icon-downloads.png';
+import StarIcon from '/assets/icon-ratings.png';
+import RevIcon from '/assets/icon-review.png';
 import { BarChart, Bar, XAxis, YAxis, ResponsiveContainer, Tooltip } from 'recharts';
 import AppNotFound from '../../Pages/Error Page/AppNotFound';
 
@@ -55,7 +55,7 @@ const AppDetails = () => {
                         </h6>
                     </div>
 
-                    <div className='text-[#001931] py-4 md:py-7 flex flex-wrap justify-center gap-6 md:gap-10'>
+                    <div className='text-[#001931] py-4 md:py-7 flex flex-wrap gap-6 md:gap-10'>
                         {/*Downloads*/}
                         <div className='flex flex-col items-center'>
                             <img className='mb-1 md:mb-2 h-8 md:h-10' src={DownloadIcon} alt="Downloads" />
@@ -84,7 +84,7 @@ const AppDetails = () => {
                         disabled={isInstalled}
                         className={`w-full md:w-auto text-gray-500 border-2 font-semibold text-base px-6 py-2 md:px-10
                             ${isInstalled
-                                ? "bg-gray-800 border-gray-400 cursor-not-allowed"
+                                ? " border-gray-400 cursor-not-allowed"
                                 : "bg-[#00D390] border-[#00D390] hover:bg-[#00b87d] text-white"
                             }`}
                     >

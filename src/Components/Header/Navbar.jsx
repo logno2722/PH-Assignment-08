@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Logo from '../../../src/assets/logo.png';
+import Logo from '/assets/logo.png';
 import { FaGithub } from "react-icons/fa";
 import { Link, useLocation } from 'react-router';
 import { HiMenu, HiX } from "react-icons/hi";

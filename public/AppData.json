@@ -1,6 +1,6 @@
 [
   {
-    "image": "/src/assets/demo-app (2).webp",
+    "image": "/assets/demo-app (2).webp",
     "title": "Forest: Focus For Productivity",
     "companyName": "Creative Canvas Studios",
     "id": 101,
@@ -18,7 +18,7 @@
     ]
   },
   {
-    "image": "/src/assets/demo-app (6).webp",
+    "image": "/assets/demo-app (6).webp",
     "title": "SmPlan:ToDo List With Reminder",
     "companyName": "Tranquility Apps Inc.",
     "id": 102,
@@ -36,7 +36,7 @@
     ]
   },
   {
-    "image": "/src/assets/demo-app (5).webp",
+    "image": "/assets/demo-app (5).webp",
     "title": "FLIP - Focus Timer For Study",
     "companyName": "DevTools Solutions",
     "id": 103,
@@ -54,7 +54,7 @@
     ]
   },
   {
-    "image": "/src/assets/demo-app (1).webp",
+    "image": "/assets/demo-app (1).webp",
     "title": "Pomocat - Cute Pomodoro Timer",
     "companyName": "Starlight Explorers",
     "id": 104,
@@ -72,7 +72,7 @@
     ]
   },
   {
-    "image": "/src/assets/clock.png",
+    "image": "/assets/clock.png",
     "title": "Time Planner: Schedule & Tasks",
     "companyName": "Kitchen Coders",
     "id": 105,
@@ -90,7 +90,7 @@
     ]
   },
   {
-    "image": "/src/assets/demo-app (4).webp",
+    "image": "/assets/demo-app (4).webp",
     "title": "Morning Habits - Daily Routine",
     "companyName": "Wellness Foundry",
     "id": 106,
@@ -108,7 +108,7 @@
     ]
   },
   {
-    "image": "/src/assets/ff.png",
+    "image": "/assets/ff.png",
     "title": "Focus Plant: Pomodoro Forest",
     "companyName": "Financial Frontier",
     "id": 107,
@@ -126,7 +126,7 @@
     ]
   },
   {
-    "image": "/src/assets/alarm.jpeg",
+    "image": "/assets/alarm.jpeg",
     "title": "Alarmy - Alarm Clock & Sleep",
     "companyName": "Global Connect Edu",
     "id": 108,
@@ -144,7 +144,7 @@
     ]
   },
   {
-    "image": "/src/assets/voxel.jpeg",
+    "image": "/assets/voxel.jpeg",
     "title": "Voxel Racer 3D",
     "companyName": "Turbo Games LTD",
     "id": 109,
@@ -162,7 +162,7 @@
     ]
   },
   {
-    "image": "/src/assets/smp editor.cd17cf1f-a2a2-4584-873c-c572c675b34e",
+    "image": "/assets/smp editor.cd17cf1f-a2a2-4584-873c-c572c675b34e",
     "title": "Smart Photo Editor",
     "companyName": "Visual Dynamics",
     "id": 110,
@@ -180,7 +180,7 @@
     ]
   },
   {
-    "image": "/src/assets/budget buddy.jpg",
+    "image": "/assets/budget buddy.jpg",
     "title": "Budget Buddy",
     "companyName": "Money Flow Software",
     "id": 111,
@@ -198,7 +198,7 @@
     ]
   },
   {
-    "image": "/src/assets/sound.jpeg",
+    "image": "/assets/sound.jpeg",
     "title": "Sound Wave Creator",
     "companyName": "Audio Innovation Labs",
     "id": 112,
