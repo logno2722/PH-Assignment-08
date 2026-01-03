@@ -1,16 +1,39 @@
-# React + Vite
+# HERO.IO - App Store
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+HERO.IO is a simple and clean website where you can find and manage mobile apps. You can view app details, install them to your browser and manage them in your personal list.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## What This App Does
 
-## React Compiler
+- **Find Apps:** Browse many different apps on the Home and All Apps pages.  
+- **App Details:** Click on any app to see its size, total downloads and a rating chart.  
+- **Install Apps:** Click "Install" to save the app to your browser's memory (Local Storage).  
+- **Manage Apps:** View all your installed apps on the Installation page.  
+- **Sort Apps:** Sort apps by downloads (High to Low or Low to High).  
+- **Uninstall:** Remove any app from your list with one click.  
+- **Smart Buttons:** Installed apps automatically change the button to "Installed" to prevent duplicate installations.  
+- **Works on All Devices:** Fully responsive design for Mobile phones, Tablets and Desktops.  
+- **Flexible Layout:** Design automatically adjusts to fit your screen size.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Tools Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React.js** - To build the website.  
+- **React Router** - For navigation between pages.  
+- **Tailwind CSS & DaisyUI** - To style the website beautifully on all screens.  
+- **Recharts** - To display app ratings with bar charts.  
+- **Local Storage** - To save data even after refreshing the page.
+
+---
+
+## How to Run It Locally
+
+1. Download or clone the repository from GitHub.  
+2. Open your terminal in the project folder.  
+3. Run the following commands:
+
+```bash
+npm install
+npm run dev
